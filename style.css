@@ -1,0 +1,12 @@
+:root {
+  --eyes: #ffffff;
+  --skin: #a6becf;
+  --nose: #be845f;
+  --pupils: #27354a;
+  --inner-ear: #819caf;
+  --background: #25a9fc;
+}
+
+body {
+  background-color: var(--background);
+}
